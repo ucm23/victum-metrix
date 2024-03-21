@@ -1,0 +1,729 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+#root {
+  --light-theme: #ffffff;
+  --dark-theme: #000000;
+  --color-primary: #1677ff;
+  --color-primary-light: #4e97fd;
+  --color-primary-light-2: #eee;
+  --deep-sky-blue: #00a0df;
+  --deep-sky-green: #00df8a;
+  --color-white: #ffffff;
+}
+
+:root {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+html {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+body {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  /*overflow: hidden;*/
+  height: 100%;
+  margin: 0;
+  /*overflow-y: scroll;
+  /* Agrega scroll vertical si el contenido excede el tamaño de la ventana */
+  height: 100vh;
+  /* Establece la altura del cuerpo al 100% de la altura de la ventana */
+  margin: 0;
+  /* Elimina el margen predeterminado del cuerpo */
+
+}
+
+.MuiTypography-root {
+  font-family: inherit;
+}
+
+.MuiFormLabel-root {
+  font-family: inherit;
+}
+
+.MuiInputLabel-root {
+  font-family: inherit;
+}
+
+.MuiTextField-root {
+  font-family: inherit;
+}
+
+.MuiPaper-root {
+  font-family: inherit;
+}
+
+.Mui-root {
+  font-family: inherit;
+}
+
+.btn {
+  font-family: inherit;
+}
+
+.ant-typography {
+  font-family: inherit;
+}
+
+.chakra-ui {
+  font-family: inherit;
+}
+
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+  font: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th,
+span,
+label,
+.label,
+textarea,
+a.active,
+input,
+span.ant-breadcrumb-link.bread-crumb,
+h1.config-header,
+.ant-spin-text {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+input#\:r9l\:,
+input#\:rh7\:,
+label#\:rh7\:-label,
+textarea#\:rh9\:,
+label#\:rh9\:-label,
+input#\:rlj\: {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.inputSizeSmall.css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.MuiSelect-select.MuiSelect-outlined.MuiInputBase-input.MuiOutlinedInput-input.MuiInputBase-inputSizeSmall.css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.placeholder::placeholder {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.placeholder {
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+
+/*:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+*/
+.bg-white {
+  background-color: var(--color-white);
+}
+
+.header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorWhite.MuiAppBar-positionStatic.css-1usmobo-MuiPaper-root-MuiAppBar-root {
+  box-shadow: 0px 0px 0px 0px rgba(255, 255, 255), 0px 0px 0px 0px rgba(255, 255, 255, ), 0px 0px 0px 0px rgba(255, 255, 255);
+}
+
+.css-1usmobo-MuiPaper-root-MuiAppBar-root {
+  box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, ), 0px 0px 0px 0px rgba(255, 255, 255, ), 0px 0px 0px 0px rgba(255, 255, 255);
+}
+
+.button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.Mui-selected.css-2o4g3d-MuiButtonBase-root-MuiTab-root {
+  text-transform: math-auto;
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.css-2o4g3d-MuiButtonBase-root-MuiTab-root {
+  text-transform: math-auto;
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.css-2o4g3d-MuiButtonBase-root-MuiTab-root {
+  text-transform: math-auto;
+  letter-spacing: .01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-sizeSmall.css-s6lz85-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  width: 100%;
+}
+
+.css-1bfskvg-MuiButtonBase-root-MuiFab-root {
+  box-shadow: 0px 0px 0px 0px rgba(255, 255, 255), 0px 0px 0px 0px rgba(255, 255, 255, ), 0px 0px 0px 0px rgba(255, 255, 255);
+}
+
+button.MuiButtonBase-root.MuiFab-root.MuiFab-extended.MuiFab-sizeMedium.MuiFab-default.MuiFab-root.MuiFab-extended.MuiFab-sizeMedium.MuiFab-default.css-1bfskvg-MuiButtonBase-root-MuiFab-root {
+  box-shadow: 0px 0px 0px 0px rgba(255, 255, 255)
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.side-bar {
+  color: var(--color-white);
+  background-color: var(--deep-sky-green);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+  padding: 10px;
+}
+
+.logo-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  background-color: var(--color-primary);
+}
+
+.menu-bar {
+  height: 88vh;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  font-size: 1rem;
+  position: relative;
+}
+
+.transition-enter {
+  animation: delayOpacity 0.2s linear;
+  height: 100%;
+  /*opacity: 1;
+  transform: translateY(20px);
+  transition: opacity 300ms, transform 300ms;*/
+}
+
+@keyframes delayOpacity {
+  0% {
+    opacity: 0.5;
+    transform: scale(0.8);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+
+.transition-exit {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.transition-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.transition-exit-active {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.div-table {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+
+.table {
+  border-radius: 10px;
+  border: 1px solid var(--color-primary);
+  -webkit-text-size-adjust: 100%;
+  tab-size: 4;
+  font-variation-settings: normal;
+  color-scheme: dark;
+  font-feature-settings: "rlig" 1, "calt" 1;
+  --font-sans: "__Inter_0ec1f4", "__Inter_Fallback_0ec1f4";
+  -webkit-font-smoothing: antialiased;
+  --radius: 0.5rem;
+  box-sizing: border-box;
+  text-indent: 0;
+  border-color: inherit;
+  border-collapse: collapse;
+  width: 100%;
+  caption-side: bottom;
+  font-size: .875rem;
+  line-height: 1.25rem;
+}
+
+.table-column-img {
+  border-radius: 18px;
+  height: 25px;
+  width: 25px;
+  object-fit: scale-down;
+}
+
+.table-column-logo {
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  display: flex;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+  padding: 2px;
+}
+
+.table-column-logo-img {
+  height: 33px;
+  width: 33px;
+  object-fit: scale-down;
+}
+
+.table-column-name {
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+}
+
+.table-column-label {
+  color: gray;
+}
+
+th {
+  text-align: justify;
+  font-weight: 400;
+  font-size: small;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+td {
+  border-top: 1px solid var(--color-primary);
+  border-color: inherit;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.drop-down-table {
+  border: 1px solid gray;
+  padding: 4px 10px 0px 10px;
+  border-radius: 6px;
+}
+
+.config-header {
+  font-size: large;
+  font-weight: 600;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: .1px;
+  line-height: 24px;
+  color: #3c4043;
+  -webkit-tap-highlight-color: transparent;
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-width: 0;
+  word-wrap: break-word;
+  margin: 16px;
+  margin-left: 4px;
+}
+
+.content-details {
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color: rgba(0, 0, 0, .87);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .2px;
+  line-height: 20px;
+  -webkit-tap-highlight-color: transparent;
+  margin: 0 auto;
+  max-width: 700px;
+  margin-top: 20px;
+
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color: rgba(0, 0, 0, .87);
+  font-weight: 400;
+  letter-spacing: .2px;
+  line-height: 20px;
+  font-size: 0.8125rem;
+  -webkit-tap-highlight-color: transparent;
+  margin-bottom: 0.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #fff;
+  border: 0.0625rem solid #dadce0;
+  border-radius: 0.5rem;
+  padding: 8px;
+
+  overflow: visible;
+}
+
+.content-details-center-with-layout {
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color: rgba(0, 0, 0, .87);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .2px;
+  line-height: 20px;
+  -webkit-tap-highlight-color: transparent;
+  margin: 15px auto;
+  max-width: 700px;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color: rgba(0, 0, 0, .87);
+  font-weight: 400;
+  letter-spacing: .2px;
+  line-height: 20px;
+  font-size: 0.8125rem;
+  -webkit-tap-highlight-color: transparent;
+  padding-bottom: 1.5rem;
+  background-color: #fff;
+  border: 0.0625rem solid #dadce0;
+  border-radius: 0.5rem;
+  padding: 15px;
+  margin-top: 15px;
+  overflow: visible;
+  height: max-content;
+  max-height: 100;
+}
+
+.center {
+  margin: 0px auto;
+}
+
+.title-details {
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  letter-spacing: .2px;
+  -webkit-tap-highlight-color: transparent;
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  margin-bottom: 1.5rem;
+  color: rgb(0, 123, 131);
+  fill: rgb(0, 123, 131);
+}
+
+.tab-header-company {
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  white-space: nowrap;
+  -webkit-tap-highlight-color: transparent;
+  letter-spacing: .01em;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1rem;
+  text-transform: none;
+  align-items: center;
+  display: flex;
+  box-sizing: border-box;
+  padding: 0.1rem 0.5rem 0 0.5rem;
+  position: relative;
+  text-decoration: none;
+  height: 3rem;
+  color: var(--color-primary);
+  border-bottom: none;
+  padding-top: 0;
+}
+
+.accordion-card-list-hover {
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  color: rgba(0, 0, 0, .87);
+  font-size: 0.8125rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  visibility: visible;
+  list-style: none;
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+  position: relative;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 2px 6px 2px rgba(60, 64, 67, .15);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background-color: transparent;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-top-width: 0px;
+}
+
+.accordion-card-list {}
+
+.accordion-card-list:hover {
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 2px 6px 2px rgba(60, 64, 67, .15);
+  border-radius: 0.5rem;
+  border-top-width: 0px;
+}
+
+.accordion-card-list-header {
+  padding: 10px;
+}
+
+.accordion-card-list-header-hover {
+  padding: 10px;
+}
+
+.padding-worse {
+  padding: 10px 10px 0px 10px;
+}
+
+.accordion-card-list-body {
+  border-top-width: 1px;
+}
+
+.bread-crumb:hover {
+  color: var(--color-primary);
+}
+
+.re-item-list-simple {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  flex-direction: row;
+}
+
+.scrollable-div {
+  max-height: 100vh;
+  /* O puedes usar max-height para un límite flexible */
+  overflow: auto;
+  /* O "scroll" si deseas que la barra de desplazamiento esté siempre visible */
+  background-color: rgb(248, 248, 248);
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.layout-form-right {
+  width: 320px;
+  background-color: white;
+  border-left-width: 1px;
+  height: 100vh;
+  padding: 15px;
+}
+
+.layout-form-right-100 {
+  width: 100%;
+  background-color: white;
+  border-top-width: 2px;
+  padding: 15px;
+}
+
+.iLjzDc {
+  letter-spacing: 0.01785714em;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  color: #5f6368;
+  padding-bottom: 4px;
+}
+
+.ksBjEc {
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  font-size: .875rem;
+  letter-spacing: .0107142857em;
+  font-weight: 500;
+  text-transform: none;
+  color: var(--color-primary);
+}
+
+.ellipsis-text {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: visible;
+  text-overflow: ellipsis;
+}
+
+/*main.ant-layout-content.css-dev-only-do-not-override-1adbn6x {
+  padding: 6px;
+}
+*/
+.transition-enter {
+  height: 100%;
+}
+
+main.ant-layout-content.css-dev-only-do-not-override-1adbn6x {
+  height: 100%;
+}
+
+main.ant-layout-content.css-dev-only-do-not-override-1adbn6x {
+  padding: 0px;
+}
+
+.flex.min-h-full.flex-1 {
+  height: 100%;
+}
+
+.styled-table {
+  border-collapse: collapse;
+}
+
+.styled-table th,
+.styled-table td {
+  border: 1px solid black;
+  padding: 1px;
+  text-align: center;
+}
+
+.styled-table th {
+  color: white;
+  font-weight: 600;
+}
+
+.table-rubric th {
+  text-align: center;
+  width: 1%;
+  /*rotate: 270deg;*/
+}
+
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.loader-img {
+  width: 225px;
+  position: absolute;
+}
+
+
+.ant-layout-content {
+  flex: auto;
+  min-height: 0;
+  height: 100%;
+}
+
+:where(.css-1adbn6x).ant-layout-content {
+  flex: auto;
+  min-height: 0;
+  height: 100%;
+}

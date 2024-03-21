@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "company_id": 1,
+    "company": {
+        "id": 1,
+        "name": "Grupo-CTI",
+        "logo": "https://consultores-cti.com.mx/logo.png"
+    },
+    "code": "195731523",
+    "first_name": "Ulises",
+    "last_name": "Cano Martinez",
+    "email": "eziocano23@gmail.com",
+    "password": "1523",
+    "country": "México",
+    "section_id": "12",
+    "role_id": "1",
+    "phone": "2361121762",
+    "active": true,
+    "evaluations": [
+        {
+            "id": 1,
+            "name": "Evaluación  de Liderazgo Servicial",
+            "description": "Contesta las preguntas",
+            "removed": true,
+            "created_at": "2023-11-11T06:43:09.714Z",
+            "end_at": "2023-11-12T06:43:09.714Z"
+        },
+        {
+            "id": 2,
+            "name": "Evaluación  de Liderazgo",
+            "description": "Contesta las preguntas",
+            "removed": true,
+            "created_at": "2023-11-09T06:43:09.714Z",
+            "end_at": "2023-11-10T06:43:09.714Z"
+        }
+    ]
+}

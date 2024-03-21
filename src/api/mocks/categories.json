@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Psicologia",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "name": "Liderazgo",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "name": "Valores",
+        "active": false,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "name": "Razonamiento lógico",
+        "active": false,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    }
+
+]

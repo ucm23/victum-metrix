@@ -1,0 +1,264 @@
+[
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 1",
+        "description": "Introducción a la GRUPO-CTI",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "competence_id": 1,
+        "name": "Evaluación 2: Pruebas psicométrica 01",
+        "description": "Contesta las preguntas",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z",
+        "end_at": "2023-11-09T06:43:09.714Z"
+    }
+
+]

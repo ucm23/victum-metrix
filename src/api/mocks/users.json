@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 1,
+        "company_id": 1,
+        "first_name": "Ulises",
+        "last_name": "Cano Martinez",
+        "email": "eziocano23@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "company_id": 1,
+        "first_name": "Gilberto",
+        "last_name": "Lopez",
+        "email": "giveidim@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "company_id": 2,
+        "first_name": "Marisela",
+        "last_name": "Del Valle",
+        "email": "marisela@gmail.com",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    }
+
+]

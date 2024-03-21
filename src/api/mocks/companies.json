@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Grupo-CTI",
+        "logo": "https://consultores-cti.com.mx/logo.png",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 2,
+        "name": "Maricela-SA de CV",
+        "logo": "https://consultores-cti.com.mx/cert/1.jpg",
+        "active": true,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    },
+    {
+        "id": 3,
+        "name": "PECB",
+        "logo": "https://consultores-cti.com.mx/cert/3.png",
+        "active": false,
+        "created_at": "2023-11-09T06:43:09.714Z"
+    }
+]
