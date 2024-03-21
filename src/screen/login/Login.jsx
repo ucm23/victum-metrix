@@ -101,7 +101,7 @@ function Login({ openSession }) {
         return new Promise(resolve => {
             setTimeout(() => {
                 resolve();
-            }, 1500);
+            }, 1501);
         });
     }
 
